@@ -1,0 +1,82 @@
+li {
+    font-size: 25px;
+    float: right;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 30px;
+    list-style: none;
+}
+
+li a:hover {
+    color: green;
+}
+
+.top-div {
+    float: left;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+
+.top-div h1 {
+    height: 20px;
+    margin-top: 0px;
+    ;
+}
+
+.top-div a {
+    font-size: 20px;
+    margin-top: 0px;
+}
+
+.div-footer {
+    background-color: black;
+}
+
+.info-left {
+    color: white;
+    margin-left: 50px;
+    float: left;
+}
+
+.footer-table {
+    width: 80%;
+    margin-left: 400px;
+}
+
+#tdh {
+    color: white;
+    font-size: 25px;
+    margin-top: 30px;
+    height: 50px;
+    width: 50px;
+}
+
+#tdi {
+    color: rgb(121, 121, 121);
+    font-size: larger;
+    text-align: center;
+}
+
+#tdi:hover {
+    color: white;
+}
+
+a {
+    text-decoration-line: none;
+}
+
+.footer-left {
+    color: white;
+    margin-left: 70px;
+    width: 55%;
+    font-size: x-large;
+    float: left;
+    margin-top: 2px;
+}
+
+.footer-logo {
+    font-size: xx-large;
+    text-align: right;
+    margin-right: 30px;
+    margin-left: 20px;
+}
